@@ -1,0 +1,2657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamedata>
+  <StartingBalance>1000000000000</StartingBalance>
+
+
+	<!--Small Ravens-->
+	
+	<Soldier>
+		<id>1</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Swordman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sword</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>	
+	<Soldier>
+		<id>2</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Bowman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>	
+	<Soldier>
+		<id>3</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Mage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Staff</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>	
+	<Soldier>
+		<id>4</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Mace Warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mace</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>5</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shield Warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Sword</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>	
+	<Soldier>
+		<id>6</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Chieftan</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sword</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Small Ravens</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Ravagers-->
+	
+	<Soldier>
+		<id>7</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Archer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>8</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Rogue</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sword</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>9</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Marauders</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Mace</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>10</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Spearman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spear</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>11</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Warmaster</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Sword</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>12</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Corsair</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Longbow</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>13</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Mercenary</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Sword</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>14</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Barbarian</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Dual Axe</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>15</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Beserkers</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Swordman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>16</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Captain</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sword and Dagger</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Ravagers</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Champs-->
+
+	<Soldier>
+		<id>17</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Slave</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>18</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Patrolman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Helmet Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>19</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Men At Arms</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>20</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Pikeman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>21</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Scout</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>22</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Ranger</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Marksman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>23</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Battlemage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mage</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>24</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>King's Guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Swordman</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>25</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Knight</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>26</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>halbardier</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Halbardier</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>27</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Paladin</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Mace</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>28</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Cavalier</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Swordman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>29</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hexblade</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Assassin</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>30</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Stormclaw</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>King</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Champs</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+	
+	<!--Elf-->
+	
+	<Soldier>
+		<id>31</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Fuse Bow</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>32</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Windwalker</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>33</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Guardian</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Knight</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>34</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Valkyrie</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>King</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>35</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Spellcaster</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Wizard</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>36</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Silverin Guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spear</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>37</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Bishop</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Paladin</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>38</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Champion</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Sword</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>39</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Bowmaster</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Longbow</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>40</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Pheonix Guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Sword</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>41</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>lightreaver</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Sword</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>42</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Warden Mage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Archmage</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Dwarf-->
+
+	<Soldier>
+		<id>43</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dwarf Warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Axeman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>44</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Longbeards</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Axeman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>45</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Sniper</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>46</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Quarreller</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Archer</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>47</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Giant Slayer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mid Axeman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>48</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hammerer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Mace</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>49</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Ironbreaker</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Maceman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>50</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Slayer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Double Axes</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>51</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Raider</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>52</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dwarfmaster</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>King</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>53</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dragonblood Warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Heavy Shielded Axeman</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>54</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Grumm Gaurd</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Double Axes</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Dwarf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Orc-->
+
+	<Soldier>
+		<id>55</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Savage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Club</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>56</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Scavenger</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sword</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>57</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tribal spearman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spear</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>58</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shaman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mage</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>59</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Orc Beserker</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Axe</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>60</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tribal Bowman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>61</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hunter</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bow</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>62</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Warchief</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Great Sword</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>63</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Mauler</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mace</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>64</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Ravager</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>65</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Slayer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Dual Swords</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>66</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>BeastMaster</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Mace</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Orc</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Undead-->
+	
+	<Soldier>
+		<id>67</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dead Warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mace</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>68</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dead Spearman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>69</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tomb Guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Axeman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>70</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Inquisitor</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Single Sword</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>71</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>72</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Skelchers</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Simple Archer</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>73</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dead Ranger</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Marksman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>74</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Lichzard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shaman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>75</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hellreaver</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Swords</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>76</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tomb Champion</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Swordman</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>77</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tomb King</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>King</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>78</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shadow Ravager</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Sickle Swords</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	<!--Dark Elf-->
+
+	<Soldier>
+		<id>79</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Bleak Sword</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>80</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shade</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>81</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dreadspears</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>82</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Black guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed Axe</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>83</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dark Shard (Missile)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>84</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Warmage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mage</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>85</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dread Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>86</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Executioner</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Dual Swords</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>87</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>DreadMace</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mace Warrior</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>88</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shadow Sister</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Assassin</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>89</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Dreadlord</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>90</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Sorceress Supreme</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Wizard</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Undead</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+	
+	<!--Wood Elf-->
+
+	<Soldier>
+		<id>91</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Glade Lord</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Lord</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>92</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Spellsinger</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Druid</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>93</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Eternal Guard</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>94</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Stalker</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Dagger</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>95</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Ward lancer</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>96</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Wood Ranger (melee)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>97</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Glade Guard (missile)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>98</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Glade Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Two Handed sword</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>99</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Wood scout (Missile)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>100</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Warden</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Heavy Maceman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>101</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Tempest</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Dual Swordman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>102</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Wild hunter</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Spearman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Wood Elf</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+	
+	<!--Vampire-->
+
+	<Soldier>
+		<id>103</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Red Duke</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Count</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>104</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Necromancer Mage</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Wizard</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>105</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Night Dweller</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Swordman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>106</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Crypt warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Zombie Warrior</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>107</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Grave Keeper</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Swordman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>108</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Wraiths</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Scythe Warrior</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>109</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Black Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Kinght</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>110</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Blood Lancers</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>111</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Quencher</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>112</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shadow Runner</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Assassin</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>113</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Shroud (Missile)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>114</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Myriad</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mace</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Vampire</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+	
+	<!--Demon-->
+
+	<Soldier>
+		<id>115</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Doomlord</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Lord</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>116</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Demonbinder</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Wizard</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>117</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Forsaken</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Bowman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>118</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Chaos lancers</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Archer</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>126</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Chaos warrior</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Mid Axeman</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>119</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hell Bowman</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Shielded Mace</SoldierType>
+		<Rarity>Common</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>120</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hell Berserker</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Maceman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>121</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Corrupt Warpriest</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Double Axes</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>122</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Hell Champion</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>King</SoldierType>
+		<Rarity>Legendary</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>123</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Apocalyptic Knight</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Spearman</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>124</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Apocalyptic Ranger (missile)</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Heavy Shielded Axeman</SoldierType>
+		<Rarity>Rare</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+	<Soldier>
+		<id>125</id>
+		<SoldierLevel>1</SoldierLevel>
+		<SoldierName>Rotten Marauder</SoldierName>
+		<SummonCost>10</SummonCost>
+		<SoldierType>Double Axes</SoldierType>
+		<Rarity>Epic</Rarity>
+		<FactionName>Demon</FactionName>
+		<UpgradeCost>12</UpgradeCost>
+		<hitPoints>15</hitPoints>
+		<Upgrades>
+		</Upgrades>
+	</Soldier>
+
+
+	
+	
+	<!--Kingdoms-->
+	
+	<Kingdom>
+		<id>001</id>
+		<kingdomName>Ravagers</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+			
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>7</ID>
+					<ID>8</ID>
+					<ID>9</ID>
+					<ID>10</ID>
+					<ID>11</ID>
+
+				</SoldierList>		
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>7</ID>
+					<ID>8</ID>
+					<ID>9</ID>
+					<ID>10</ID>
+					<ID>11</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>7</ID>
+					<ID>8</ID>
+					<ID>9</ID>
+					<ID>10</ID>
+					<ID>11</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>7</ID>
+					<ID>8</ID>
+					<ID>9</ID>
+					<ID>10</ID>
+					<ID>11</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>7</ID>
+					<ID>8</ID>
+					<ID>9</ID>
+					<ID>10</ID>
+					<ID>11</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>002</id>
+		<kingdomName>Champs</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>17</ID>
+					<ID>18</ID>
+					<ID>19</ID>
+					<ID>20</ID>
+					<ID>21</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>17</ID>
+					<ID>18</ID>
+					<ID>19</ID>
+					<ID>20</ID>
+					<ID>21</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>17</ID>
+					<ID>18</ID>
+					<ID>19</ID>
+					<ID>20</ID>
+					<ID>21</ID>
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>17</ID>
+					<ID>18</ID>
+					<ID>19</ID>
+					<ID>20</ID>
+					<ID>21</ID>
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>17</ID>
+					<ID>18</ID>
+					<ID>19</ID>
+					<ID>20</ID>
+					<ID>21</ID>
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>003</id>
+		<kingdomName>Elf</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>31</ID>
+					<ID>32</ID>
+					<ID>33</ID>
+					<ID>34</ID>
+					<ID>35</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>31</ID>
+					<ID>32</ID>
+					<ID>33</ID>
+					<ID>34</ID>
+					<ID>35</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>31</ID>
+					<ID>32</ID>
+					<ID>33</ID>
+					<ID>34</ID>
+					<ID>35</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>31</ID>
+					<ID>32</ID>
+					<ID>33</ID>
+					<ID>34</ID>
+					<ID>35</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>31</ID>
+					<ID>32</ID>
+					<ID>33</ID>
+					<ID>34</ID>
+					<ID>35</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>004</id>
+		<kingdomName>Dwarf</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>43</ID>
+					<ID>44</ID>
+					<ID>45</ID>
+					<ID>46</ID>
+					<ID>47</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>43</ID>
+					<ID>44</ID>
+					<ID>45</ID>
+					<ID>46</ID>
+					<ID>47</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>43</ID>
+					<ID>44</ID>
+					<ID>45</ID>
+					<ID>46</ID>
+					<ID>47</ID>
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>43</ID>
+					<ID>44</ID>
+					<ID>45</ID>
+					<ID>46</ID>
+					<ID>47</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>43</ID>
+					<ID>44</ID>
+					<ID>45</ID>
+					<ID>46</ID>
+					<ID>47</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Orc</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>55</ID>
+					<ID>56</ID>
+					<ID>57</ID>
+					<ID>58</ID>
+					<ID>59</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>55</ID>
+					<ID>56</ID>
+					<ID>57</ID>
+					<ID>58</ID>
+					<ID>59</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>55</ID>
+					<ID>56</ID>
+					<ID>57</ID>
+					<ID>58</ID>
+					<ID>59</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>55</ID>
+					<ID>56</ID>
+					<ID>57</ID>
+					<ID>58</ID>
+					<ID>59</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>55</ID>
+					<ID>56</ID>
+					<ID>57</ID>
+					<ID>58</ID>
+					<ID>59</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Undead</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>67</ID>
+					<ID>68</ID>
+					<ID>69</ID>
+					<ID>70</ID>
+					<ID>71</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>67</ID>
+					<ID>68</ID>
+					<ID>69</ID>
+					<ID>70</ID>
+					<ID>71</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>67</ID>
+					<ID>68</ID>
+					<ID>69</ID>
+					<ID>70</ID>
+					<ID>71</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>67</ID>
+					<ID>68</ID>
+					<ID>69</ID>
+					<ID>70</ID>
+					<ID>71</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>67</ID>
+					<ID>68</ID>
+					<ID>69</ID>
+					<ID>70</ID>
+					<ID>71</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Dark Elf</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>79</ID>
+					<ID>80</ID>
+					<ID>81</ID>
+					<ID>82</ID>
+					<ID>83</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>79</ID>
+					<ID>80</ID>
+					<ID>81</ID>
+					<ID>82</ID>
+					<ID>83</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>79</ID>
+					<ID>80</ID>
+					<ID>81</ID>
+					<ID>82</ID>
+					<ID>83</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>79</ID>
+					<ID>80</ID>
+					<ID>81</ID>
+					<ID>82</ID>
+					<ID>83</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>79</ID>
+					<ID>80</ID>
+					<ID>81</ID>
+					<ID>82</ID>
+					<ID>83</ID>
+
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Wood Elf</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>91</ID>
+					<ID>92</ID>
+					<ID>93</ID>
+					<ID>94</ID>
+					<ID>95</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>91</ID>
+					<ID>92</ID>
+					<ID>93</ID>
+					<ID>94</ID>
+					<ID>95</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>91</ID>
+					<ID>92</ID>
+					<ID>93</ID>
+					<ID>94</ID>
+					<ID>95</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>91</ID>
+					<ID>92</ID>
+					<ID>93</ID>
+					<ID>94</ID>
+					<ID>95</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>91</ID>
+					<ID>92</ID>
+					<ID>93</ID>
+					<ID>94</ID>
+					<ID>95</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Vampire</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>103</ID>
+					<ID>104</ID>
+					<ID>105</ID>
+					<ID>106</ID>
+					<ID>107</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>103</ID>
+					<ID>104</ID>
+					<ID>105</ID>
+					<ID>106</ID>
+					<ID>107</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>103</ID>
+					<ID>104</ID>
+					<ID>105</ID>
+					<ID>106</ID>
+					<ID>107</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>103</ID>
+					<ID>104</ID>
+					<ID>105</ID>
+					<ID>106</ID>
+					<ID>107</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>103</ID>
+					<ID>104</ID>
+					<ID>105</ID>
+					<ID>106</ID>
+					<ID>107</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+	<Kingdom>
+		<id>005</id>
+		<kingdomName>Demon</kingdomName>
+		<ConqueredRegionProgress>0</ConqueredRegionProgress>
+		<KingdomLore>Details of Kingdom 1</KingdomLore>
+		<Castles>
+
+			<Castle>
+				<id>01</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>115</ID>
+					<ID>116</ID>
+					<ID>117</ID>
+					<ID>118</ID>
+					<ID>119</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>02</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>115</ID>
+					<ID>116</ID>
+					<ID>117</ID>
+					<ID>118</ID>
+					<ID>119</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>03</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>115</ID>
+					<ID>116</ID>
+					<ID>117</ID>
+					<ID>118</ID>
+					<ID>119</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>04</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>115</ID>
+					<ID>116</ID>
+					<ID>117</ID>
+					<ID>118</ID>
+					<ID>119</ID>
+
+				</SoldierList>
+			</Castle>
+			<Castle>
+				<id>05</id>
+				<ProductionCapacity>10</ProductionCapacity>
+				<ProductionTime>10</ProductionTime>
+				<SoldierList>
+					<ID>115</ID>
+					<ID>116</ID>
+					<ID>117</ID>
+					<ID>118</ID>
+					<ID>119</ID>
+
+				</SoldierList>
+			</Castle>
+
+		</Castles>
+	</Kingdom>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<Character>
+    <CharacterId>1</CharacterId>
+    <CharacterRank>FleetDirector</CharacterRank>
+    <CharacterEquippedItemList>
+      <Head>null</Head>
+      <Torso>null</Torso>
+      <Legs>null</Legs>
+      <Feet>null</Feet>
+    </CharacterEquippedItemList>
+    <CharacterEquippedAccessoriesList>
+      <Accessorie1>null</Accessorie1>
+      <Accessorie2>null</Accessorie2>
+    </CharacterEquippedAccessoriesList>
+  </Character>
+	
+
+    
+  <ProductSeller>
+    <SellerPrefab>ProductSellerPrefab</SellerPrefab>
+    <ProductName>Steel</ProductName>
+    <ProductType>StoreProduct</ProductType>
+    <!--Product Type/ Factory product Or Store product!-->
+    <ProductSourceID>2</ProductSourceID>
+    <!-- Id of Factory/Store -->
+  </ProductSeller>
+  
+  <Car>
+    <PrefabImageName>StorePrefab_oil</PrefabImageName>
+    <FinalProduct>Oil</FinalProduct>
+    <CraftItemCost>250000</CraftItemCost>
+    <CarPrefab>SelectedCarPrefab</CarPrefab>
+    <CarName>Oil Car</CarName>
+  </Car>
+	
+  <Contracts>
+
+    <AvailableContracts>
+
+      <AvailableContract>
+        <ContractID>1</ContractID>
+        <Tierlevel></Tierlevel>
+        <PrefabName>AvailableContractPrefab</PrefabName>
+
+        <Rewards>
+          <Reward>
+            <MoneyReward>10000000000</MoneyReward>
+            <EnergyReward>1235</EnergyReward>
+          </Reward>
+        </Rewards>
+
+        <Products>
+          <Product>
+            <MaterialName>Water</MaterialName>
+            <MaterialQuantity>1234</MaterialQuantity>
+          </Product>
+
+          <Product>
+            <MaterialName>Coal</MaterialName>
+            <MaterialQuantity>333</MaterialQuantity>
+          </Product>
+        </Products>
+
+
+        <ContractDetails></ContractDetails>
+        <DestinationStation></DestinationStation>
+
+      </AvailableContract>
+
+      <AvailableContract>
+        <ContractID>2</ContractID>
+        <Tierlevel></Tierlevel>
+        <PrefabName>AvailableContractPrefab</PrefabName>
+
+        <Rewards>
+          <Reward>
+            <MoneyReward>100000000</MoneyReward>
+            <EnergyReward>342</EnergyReward>
+          </Reward>
+
+        </Rewards>
+
+
+
+
+        <Products>
+          <Product>
+            <MaterialName>Wood</MaterialName>
+            <MaterialQuantity>9876</MaterialQuantity>
+          </Product>
+
+          <Product>
+            <MaterialName>Cotton</MaterialName>
+            <MaterialQuantity>7584</MaterialQuantity>
+          </Product>
+        </Products>
+
+
+
+        <ContractDetails></ContractDetails>
+        <DestinationStation></DestinationStation>
+      </AvailableContract>
+
+      <AvailableContract>
+        <ContractID>3</ContractID>
+        <Tierlevel></Tierlevel>
+        <PrefabName>AvailableContractPrefab</PrefabName>
+
+        <Rewards>
+
+          <Reward>
+            <MoneyReward>10000000</MoneyReward>
+            <EnergyReward>9872</EnergyReward>
+          </Reward>
+        </Rewards>
+
+
+
+
+        <Products>
+          <Product>
+            <MaterialName>sandstone</MaterialName>
+            <MaterialQuantity>7777</MaterialQuantity>
+          </Product>
+
+          <Product>
+            <MaterialName>Coal</MaterialName>
+            <MaterialQuantity>6598</MaterialQuantity>
+          </Product>
+        </Products>
+
+
+
+        <ContractDetails></ContractDetails>
+        <DestinationStation></DestinationStation>
+      </AvailableContract>
+
+      <AvailableContract>
+        <ContractID>4</ContractID>
+        <Tierlevel></Tierlevel>
+        <PrefabName>AvailableContractPrefab</PrefabName>
+
+        <Rewards>
+          <Reward>
+            <MoneyReward>1000000000000</MoneyReward>
+            <EnergyReward>46005</EnergyReward>
+          </Reward>
+        </Rewards>
+
+
+
+
+        <Products>
+          <Product>
+            <MaterialName>Wood</MaterialName>
+            <MaterialQuantity>2100</MaterialQuantity>
+          </Product>
+
+          <Product>
+            <MaterialName>Steel</MaterialName>
+            <MaterialQuantity>3409</MaterialQuantity>
+          </Product>
+        </Products>
+        <ContractDetails></ContractDetails>
+        <DestinationStation></DestinationStation>
+      </AvailableContract>
+
+
+    </AvailableContracts>
+
+
+    <AcceptedContracts>
+
+      <AcceptedContract>
+      </AcceptedContract>
+
+      <AcceptedContract>
+      </AcceptedContract>
+
+      <AcceptedContract>
+      </AcceptedContract>
+
+    </AcceptedContracts>
+
+
+
+
+    <CarPrefab>SelectedCarPrefab</CarPrefab>
+    <CraftItemCost>1000000000</CraftItemCost>
+    <CarName>Plastic Car</CarName>
+
+  </Contracts>
+
+  <FleetTrain>
+    <FleetPrefab>FleetTrainPrefab</FleetPrefab>
+    <RequirementCrafts>100000</RequirementCrafts>
+    <RequirementCash>500000000</RequirementCash>
+    <RequirementEnergy>100</RequirementEnergy>
+    <TrainLocked>false</TrainLocked>
+    <TrainSpriteName>TrainSlot1</TrainSpriteName>
+
+  </FleetTrain>
+
+
+</gamedata>
